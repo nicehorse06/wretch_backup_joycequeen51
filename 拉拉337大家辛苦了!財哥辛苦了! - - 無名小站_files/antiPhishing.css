@@ -1,0 +1,41 @@
+#panel, #panel .ft{background:#F2F2F2 !important;}
+#panel, #panel .hd, #panel .bd, #panel .ft{margin:0px;border-width:0px;}
+#panel{border:2px solid #d2d2d2;-moz-border-radius:10px;-webkit-border-radius:10px;}
+#panel_c{z-index:4;}
+#panel_c .underlay{z-index:0;-moz-border-radius:10px;-webkit-border-radius:10px;right:-5px;left:5px;bottom:-5px;top:5px;}
+#panel a.container-close{background:url(/web/20131226221735im_/http://l.yimg.com/e/serv/blog/img/ico_close.png) top center no-repeat;margin-top:5px;}
+#panel .bd{padding-top:0px;padding-left:0px;}
+#panel .ft{padding-right:5px;-moz-border-radius:10px; -webkit-border-radius:10px;}
+#panel .bd .antiphishing-wrapper{zoom:1;margin:25px 0px 32px 25px;padding-left:57px;background:url(/web/20131226221735im_/http://l.yimg.com/e/serv/blog/img/ico_warning.png) top left no-repeat;}
+#panel .bd .notice{background:url(/web/20131226221735im_/http://l.yimg.com/e/serv/blog/img/ico_info.png) top left no-repeat;}
+#panel p.antiphishing-warning{font-size:116%;color:#000;font-weight:bold;width:270px;}
+#panel p.antiphishing-warning label{font-weight:bold;font-size:85%;vertical-align:top;_vertical-align:middle;}
+#panel span.antiphishing-note{font-size:93%;display:block;width:270px;margin:17px 0;}
+#panel span.antiphishing-note a{color:#3399cc;;}
+#panel .note span.antiphishing-note{color:#666;}
+#panel label{margin-left:5px;}
+#panel span#save-msg{color:#FF0000;font-size:85%;vertical-align:top;_vertical-align:middle;margin-left:10px;}
+#panel .ft .button-group{text-align:right;margin-bottom:12px;_margin-bottom:7px;margin-right:5px;}
+#panel .ft .button-group button{font-size:12px;}
+#panel .button-group .default{background:url(/web/20131226221735im_/http://l.yimg.com/e/serv/blog/img/button-r-b.png) no-repeat scroll left center transparent;}
+
+/*
+     FILE ARCHIVED ON 22:17:35 Dec 26, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:27:04 Dec 30, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 8.139
+  esindex: 0.018
+  exclusion.robots: 0.138
+  PetaboxLoader3.resolve: 443.432 (3)
+  exclusion.robots.policy: 0.124
+  CDXLines.iter: 69.074 (3)
+  LoadShardBlock: 1304.481 (6)
+  load_resource: 168.849
+  PetaboxLoader3.datanode: 485.779 (7)
+*/

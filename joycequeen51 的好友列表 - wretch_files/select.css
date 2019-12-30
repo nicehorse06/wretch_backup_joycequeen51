@@ -1,0 +1,109 @@
+/*
+select.css
+*/
+
+.selectBox {
+  width: 200px;
+}
+.selectBox h3 {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: inherit;
+  font-size: 1em;
+  font-weight: normal;
+  *background: url('http://web.archive.org/web/20131226221702im_/http://www.wretch.cc/icon/htcmi/other/script/javascript/select/selectItem.gif') repeat-y right top;
+  background-color: white;
+}
+.selectBox h3 a {
+  display: block;
+  width: 100%;
+  border: 1px solid #CCC;
+  border-right: 0 none transparent;
+  padding-left: 5px;
+  padding-top: 3px;
+  height: 17px;
+  overflow: hidden;
+  text-decoration: none !important;
+  color: #888 !important;
+  background: white url('http://web.archive.org/web/20131226221702im_/http://www.wretch.cc/icon/htcmi/other/script/javascript/select/def.gif') no-repeat right top;
+  cursor: default;
+}
+.selectBox h3 a.t,
+.selectBox h3 a:hover {
+  background: white url('http://web.archive.org/web/20131226221702im_/http://www.wretch.cc/icon/htcmi/other/script/javascript/select/hover.gif') no-repeat right top;
+}
+.selectBox ul {
+  width: 100%;
+  margin: 0;
+  padding: 3px 2px 3px 3px;
+  list-style-type: none;
+  position: absolute;
+  top: -1px;
+  left: 0px;
+  border: 1px solid #ccc;
+  border-top: 0 none transparent;
+  border-right: 0 none transparent;
+  background: white url('http://web.archive.org/web/20131226221702im_/http://www.wretch.cc/icon/htcmi/other/script/javascript/select/selectItem.gif') repeat-y right top;
+}
+.selectBox ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  padding-right: 3px;
+}
+.selectBox ul li a {
+  text-decoration: none;
+  color: #555 !important;
+  padding: 2px;
+  display: block;
+  *height: 1%;
+}
+.selectBox ul li a:hover {
+  background: #eee;
+}
+/*avoid hiding ad-friend*/
+html body div#ad_banner
+{clip:rect(auto, auto, auto, auto) !important;
+display:block !important;
+height:auto !important;
+width:auto !important;
+opacity:1 !important;
+filter: alpha(opacity=100) !important;
+position:static !important;
+visibility:visible !important;}
+html body div#ad_banner a,
+html body div#ad_banner a img,
+html body div#ad_banner iframe,
+html body div#ad_banner object,
+html body div#ad_banner object embed
+{clip:rect(auto, auto, auto, auto) !important;
+display:inline !important;
+width:728px !important;
+opacity:1 !important;
+filter: alpha(opacity=100) !important;
+position:static !important;
+visibility:visible !important;}
+
+
+
+/*
+     FILE ARCHIVED ON 22:17:02 Dec 26, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:27:08 Dec 30, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.011
+  PetaboxLoader3.resolve: 54.496
+  LoadShardBlock: 410.585 (6)
+  exclusion.robots.policy: 0.187
+  RedisCDXSource: 32.208
+  exclusion.robots: 0.239
+  load_resource: 163.37
+  PetaboxLoader3.datanode: 429.097 (7)
+  CDXLines.iter: 91.46 (3)
+*/

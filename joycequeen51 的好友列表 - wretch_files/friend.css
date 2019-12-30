@@ -1,0 +1,226 @@
+* HTML {
+SCROLLBAR-FACE-COLOR:#ffffff;
+BACKGROUND:#000000;
+SCROLLBAR-HIGHLIGHT-COLOR:#000000;
+BORDER-LEFT:#000000 0px solid;
+SCROLLBAR-SHADOW-COLOR:#000000;
+SCROLLBAR-3DLIGHT-COLOR:#000000;
+SCROLLBAR-ARROW-COLOR:#000000;
+SCROLLBAR-TRACK-COLOR:#000000;
+SCROLLBAR-DARKSHADOW-COLOR:#000000;
+}
+BODY {
+BACKGROUND:#ffff66 fixed left center;
+}
+A {
+COLOR:#ffffff;
+TEXT-DECORATION:none;
+}
+A:hover {
+COLOR:#ff0066;
+}
+#container {
+PADDING-RIGHT:0px;
+PADDING-LEFT:19px;
+PADDING-BOTTOM:0px;
+PADDING-TOP:20px;
+}
+#header {
+PADDING-RIGHT:0px;
+BACKGROUND-POSITION:right bottom;
+PADDING-LEFT:19px;
+FONT-WEIGHT:normal;
+BACKGROUND-IMAGE:url(http://web.archive.org/web/20131226221743im_/http://l.yimg.com/e/style/12/1287/1018575269.jpg);
+PADDING-BOTTOM:0px;
+PADDING-TOP:20px;
+BACKGROUND-REPEAT:no-repeat;
+FONT-STYLE:normal;
+height:220px;
+BACKGROUND-COLOR:#000000;
+}
+#content {
+PADDING-RIGHT:0px;
+PADDING-LEFT:50px;
+PADDING-BOTTOM:25px;
+PADDING-TOP:80px;
+}
+#header #navigator {
+PADDING-RIGHT:10px;
+PADDING-LEFT:10px;
+RIGHT:15px;
+PADDING-BOTTOM:0px;
+COLOR:#000000;
+PADDING-TOP:0px;
+POSITION:absolute;
+TOP:12px;
+TEXT-ALIGN:right;
+}
+#header #navigator A {
+PADDING-RIGHT:4px;
+PADDING-LEFT:4px;
+PADDING-BOTTOM:4px;
+COLOR:#000000;
+PADDING-TOP:4px;
+}
+#header #navigator A:hover {
+COLOR:#cccccc;
+TEXT-DECORATION:underline;
+}
+#boxProfile {
+CLEAR:both;
+}
+#header .Pcover {
+BORDER-RIGHT:#cccccc 1px solid;
+PADDING-RIGHT:0px;
+BORDER-TOP:#cccccc 1px solid;
+PADDING-LEFT:0px;
+BACKGROUND:#000000 center 50%;
+LEFT:50px;
+PADDING-BOTTOM:0px;
+BORDER-LEFT:#cccccc 1px solid;
+PADDING-TOP:0px;
+BORDER-BOTTOM:#cccccc 1px solid;
+POSITION:absolute;
+}
+#header .Ptext {
+PADDING-LEFT:50px;
+}
+#header .Ptext H1 {
+FONT-SIZE:18px;
+TEXT-TRANSFORM:capitalize;
+FONT-FAMILY:arial;
+}
+#header .Ptext LI {
+ZOOM:1;
+LIST-STYLE-TYPE:none;
+}
+#header .Ptext LI A {
+DISPLAY:block;
+PADDING-LEFT:5px;
+MARGIN-BOTTOM:2px;
+BORDER-LEFT:#000000 4px solid;
+WIDTH:150px;
+}
+#header .Ptext LI A:hover {
+COLOR:#ffffff;
+border:1px solid;
+}
+#header #menu {
+DISPLAY:none;
+}
+.il {
+DISPLAY:none;
+}
+#msg {
+CLEAR:both;
+PADDING-RIGHT:0px;
+PADDING-LEFT:0px;
+PADDING-BOTTOM:0px;
+MARGIN:0px 0px 0px 35px;
+PADDING-TOP:0px;
+}
+#friendListDiv OL LI {
+BORDER-RIGHT:#cccccc 1px solid;
+BORDER-TOP:#cccccc 1px solid;
+BACKGROUND:#000000 left top;
+BORDER-LEFT:#cccccc 1px solid;
+PADDING-TOP:2px;
+BORDER-BOTTOM:#cccccc 1px solid;
+}
+#friendListDiv OL LI A {
+FONT:0.8em verdana;
+COLOR:#ffffff;
+}
+#friendListDiv OL LI A:hover {
+BORDER-TOP-WIDTH:0px;
+BORDER-LEFT-WIDTH:0px;
+BACKGROUND:no-repeat -1px -2px;
+BORDER-BOTTOM-WIDTH:0px;
+COLOR:#000000;
+BORDER-RIGHT-WIDTH:0px;
+}
+#descDiv {
+BORDER-RIGHT:#cccccc 1px solid;
+BORDER-TOP:#cccccc 1px solid;
+BACKGROUND:#ffffff;
+BORDER-LEFT:#cccccc 1px solid;
+COLOR:#555;
+BORDER-BOTTOM:#cccccc 1px solid;
+}
+.font_id2 {
+PADDING-RIGHT:5px;
+DISPLAY:block;
+PADDING-LEFT:5px;
+FONT-SIZE:15px;
+BACKGROUND:#cccccc;
+PADDING-BOTTOM:5px;
+TEXT-TRANSFORM:capitalize;
+COLOR:#000000;
+PADDING-TOP:5px;
+TEXT-ALIGN:center;
+}
+.font_desc {
+COLOR:#cccccc;
+}
+.font_cate {
+DISPLAY:block;
+COLOR:#999;
+TEXT-ALIGN:right;
+}
+#footer {
+CLEAR:both;
+}
+
+#header A:link {
+COLOR:#ffff66;
+}
+#header A:visited {
+COLOR:#ffff66;
+}
+#header A:active {
+COLOR:#ffff66;
+}
+#header A:hover {
+COLOR:#ffff66;
+}
+#title_desc {
+FONT-WEIGHT:normal;
+FONT-STYLE:normal;
+BACKGROUND-COLOR:#000000;
+TEXT-ALIGN:center;
+}
+
+A:link {
+COLOR:#ff0066;
+}
+A:visited {
+COLOR:#ff0066;
+}
+A:active {
+COLOR:#ff0066;
+}
+
+BODY {
+COLOR:#ff0066;
+}
+/*
+     FILE ARCHIVED ON 22:17:43 Dec 26, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:27:08 Dec 30, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 254.21 (3)
+  load_resource: 128.62
+  exclusion.robots: 0.261
+  PetaboxLoader3.resolve: 121.057 (2)
+  captures_list: 284.671
+  esindex: 0.013
+  RedisCDXSource: 5.342
+  PetaboxLoader3.datanode: 246.755 (4)
+  exclusion.robots.policy: 0.241
+  CDXLines.iter: 22.047 (3)
+*/

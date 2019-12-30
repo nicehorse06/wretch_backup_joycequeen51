@@ -1,0 +1,30 @@
+.trackback_a { cursor: hand; }
+.mapwidth { width: 100%; height: 400px; }
+.calendar2{ height:240px; }
+.history{zoom:1;}
+.history:after {content: "."; display:block; height:0 ; clear:both; visibility:hidden}
+.history_title{float:left;}
+.history_articles{float:left}
+.cmt_floor_hide{color: blue; margin-bottom: .5em; display:none}
+.cmt_floor{float:right;}
+
+/*
+     FILE ARCHIVED ON 22:17:35 Dec 26, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:26:59 Dec 30, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.3
+  LoadShardBlock: 363.649 (6)
+  RedisCDXSource: 8.952
+  esindex: 0.02
+  load_resource: 251.39
+  PetaboxLoader3.resolve: 331.392 (3)
+  exclusion.robots.policy: 0.279
+  PetaboxLoader3.datanode: 237.099 (7)
+  CDXLines.iter: 88.868 (3)
+*/
