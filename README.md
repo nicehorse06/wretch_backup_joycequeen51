@@ -12,7 +12,7 @@
 [好友列表](http://web.archive.org/web/20131226221702/http://www.wretch.cc/friend/joycequeen51)
 
 ## 相簿
-[相簿列表](http://web.archive.org/web/20131226221655/http://www.wretch.cc/album/joycequeen51)
+* [相簿列表](http://web.archive.org/web/20131226221655/http://www.wretch.cc/album/joycequeen51)
 * [留住那一刻](http://web.archive.org/web/20131226221712/http://www.wretch.cc/album/album.php?id=joycequeen51&book=2)
 * [松田岡農場-宿營](http://web.archive.org/web/20131226221705/http://www.wretch.cc/album/album.php?id=joycequeen51&book=18)
 * [北投一日遊_!](http://web.archive.org/web/20131226221708/http://www.wretch.cc/album/album.php?id=joycequeen51&book=33)
